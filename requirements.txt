@@ -1,6 +1,9 @@
 streamlit
+streamlit-folium
 pdfplumber
 geopandas
 shapely
 fiona
 pyproj
+pandas
+folium
